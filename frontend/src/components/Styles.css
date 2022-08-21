@@ -1,0 +1,164 @@
+.log-component{
+    height: 320px;
+    width: 500px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color:whitesmoke;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    padding: 20px;
+}
+.proCard{
+    border: 3px solid black;
+    margin: 20px;
+  }
+  .group{
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+.log_field{
+    width: 75%;
+    padding: 10px ;
+    margin-right: 40px ;
+    margin-top: 15px ;
+}
+
+input{
+    border: 1px solid grey;
+}
+
+.buttons{
+    width: 125px;
+    margin: 25px 50px 0;
+}
+.form-component{
+    height: 550px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    background-color:whitesmoke;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    padding: 20px;
+}
+.form_field{
+    width: 75%;
+    padding: 10px;
+    margin-right: 40px;
+    margin-top: 15px;
+}
+.buttons{
+    width: 200px;
+    margin: 25px 50px 0;
+}
+.form_dropdown
+{
+    width: 50%;
+    margin-left: 40px;
+    padding: 5px;
+    text-align: center;
+}
+input{
+    border: 1px solid grey;
+}
+.content{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.singleCard{
+    margin: 10px;
+    width: auto;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.confirm{
+    text-align: center;
+    height: 500px;
+    width: 900px;
+    position: absolute;
+    top: 50%;
+    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 30px;
+}
+.imgg{
+    width:"500px";
+     height:"300px"
+}
+@media screen and (max-device-width: 412px) {
+    .log-component{
+        width: 400px !important;
+    }
+    .form-component{
+        width: 370px;
+      
+    }
+    .registerdropdown{
+        position: relative !important;
+        left: 27px !important;
+    }
+     .search{
+        margin-top: 80px;
+        font-size: 20px;
+        padding: 10px;
+        width: auto;
+        border-radius: 20px;
+     }
+ 
+ }
+ @media screen and (max-device-width: 412px) {
+    .log-component{
+        width: 350px !important;
+ 
+    }
+    .form_field{
+        width: 300px;
+        position: relative;
+        left: 7px;
+    }
+     .loginbutton{
+         position: relative;
+         top:-20px
+     }
+     .confirm{
+        text-align: center;
+        height: 500px;
+        width: 400px;
+        position: absolute;
+        top: 50%;
+        box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        padding: 30px;
+    }
+    .imgg{
+        width:250px;
+         height:150px
+    }
+ }
+ .search{
+    margin-top: 80px;
+    font-size: 20px;
+    padding: 10px;
+    width:auto;
+    border-radius: 20px;
+}
+ @keyframes slide {
+    0% {
+      transform:translateX(-25%);
+    }
+    100% {
+      transform:translateX(25%);
+    }
+  }
+
+  .profile-component{
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;    background-color:whitesmoke;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    padding: 20px;
+    width: 600px;
+}

@@ -1,0 +1,111 @@
+
+[{
+"item":"Eggs",
+"price":"1",
+"type":"Essentials",
+"url":"https://cdn.pixabay.com/photo/2013/07/12/16/54/egg-151483_960_720.png"
+},
+{
+    "item":"Banana",
+    "price":"12",
+    "type":"Fruits",
+    "url":"https://cdn.pixabay.com/photo/2013/07/12/16/57/banana-151553_960_720.png"
+},
+{
+    "item":"Strawberry",
+    "price":"15",
+    "type":"Fruits",
+    "url":"https://cdn.pixabay.com/photo/2014/12/22/00/05/strawberry-576772_960_720.png"
+},
+{
+    "item":"Apple",
+    "price":"12",
+    "type":"Fruits",
+    "url":"https://cdn.pixabay.com/photo/2015/06/11/13/40/apple-805819_960_720.png"
+},
+{
+    "item":"Water Melon",
+    "price":"7",
+    "type":"Fruits",
+    "url":"https://cdn.pixabay.com/photo/2013/07/25/11/51/melon-166835_960_720.jpg"
+},
+{
+    "item":"Tomato",
+    "price":"29",
+    "type":"Vegetables",
+    "url":"https://cdn.pixabay.com/photo/2018/07/06/08/49/tomatoes-3520004_960_720.jpg"
+},
+{
+    "item":"Carrot",
+    "price":"10",
+    "type":"Vegetables",
+    "url":"https://cdn.pixabay.com/photo/2017/06/09/16/39/carrots-2387394_960_720.jpg"
+},
+{
+    "item":"Potato",
+    "price":"16",
+    "type":"Vegetables",
+    "url":"https://cdn.pixabay.com/photo/2016/08/11/08/49/potatoes-1585075_960_720.jpg"
+},
+{
+    "item":"Brinjal",
+    "price":"22",
+    "type":"Vegetables",
+    "url":"https://cdn.pixabay.com/photo/2013/03/02/01/25/aubergine-89044_960_720.jpg"
+},
+{
+    "item":"Milk",
+    "price":"20",
+    "type":"Diary",
+    "url":"https://cdn.pixabay.com/photo/2017/09/11/23/34/milk-bottle-2740848_960_720.jpg"
+},
+{
+    "item":"Cheese",
+    "price":"35",
+    "type":"Diary",
+    "url":"https://cdn.pixabay.com/photo/2020/05/17/04/33/cheese-5179967_960_720.jpg"
+},
+{
+    "item":"Butter",
+    "price":"45",
+    "type":"Diary",
+    "url":"https://cdn.pixabay.com/photo/2018/05/18/12/55/butter-3411126_960_720.jpg"
+},
+{
+    "item":"Sugar",
+    "price":"50",
+    "type":"Essentials",
+    "url":"https://cdn.pixabay.com/photo/2016/07/13/11/52/sugar-1514247_960_720.jpg"
+},
+{
+    "item":"Oil",
+    "price":"90",
+    "type":"Essentials",
+    "url":"https://cdn.pixabay.com/photo/2014/05/28/00/27/olive-oil-356102_960_720.jpg"
+},
+{
+    "item":"Salt",
+    "price":"2",
+    "type":"Essentials",
+    "url":"https://cdn.pixabay.com/photo/2018/04/02/20/17/salt-3285024_960_720.jpg"
+},
+{
+    "item":"Corn",
+    "price":"30",
+    "type":"Cereal",
+    "url":"https://cdn.pixabay.com/photo/2015/05/26/17/42/pop-corn-785074_960_720.jpg"
+},
+{
+    "item":"Wheat",
+    "price":"50",
+    "type":"Cereal",
+    "url":"https://cdn.pixabay.com/photo/2014/07/02/06/47/wheat-381848_960_720.jpg"
+},
+{
+    "item":"Spinach",
+    "price":"28",
+    "type":"Vegetables",
+    "url":"https://cdn.pixabay.com/photo/2016/07/16/16/30/spinach-1522283_960_720.jpg"
+}
+
+]
